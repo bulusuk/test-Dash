@@ -1,0 +1,7 @@
+statsmodels
+scipy
+matplotlib
+numpy
+pandas
+gunicorn
+dash
